@@ -1,4 +1,4 @@
-menu-contexto
+Menu Contexto
 =============
 
-Menu contexto personalizado
+Objetivo é estudo para desabilitar o menu contexto padrão do navegador e abrir um novo menu personalizado.
